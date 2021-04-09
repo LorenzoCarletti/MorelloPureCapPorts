@@ -1,0 +1,6 @@
+[submodule "curl"]
+	path = curl
+	url = https://github.com/LorenzoCarletti/curl_morello
+[submodule "boringssl"]
+	path = boringssl
+	url = https://github.com/LorenzoCarletti/boringssl_morello
